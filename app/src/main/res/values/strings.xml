@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PersonApp</string>
+    <string name="person_full_name">%s %S</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="country">Country:</string>
+    <string name="company">Company:</string>
+    <string name="email">Email:</string>
+    <string name="person_details">Person details:</string>
+    <string name="search_hint">Search</string>
+    <string name="filter_name">Name</string>
+    <string name="filter_country">Country</string>
+</resources>
